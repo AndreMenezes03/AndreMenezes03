@@ -6,12 +6,6 @@ Estudante de Ciência da Computação na **PUC Minas** (2022-2026). Busco consta
 - Localização: Belo Horizonte, MG
 - Status: Buscando oportunidades de estágio
 
-## Estatísticas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AndreMenezes03&show_icons=true&theme=radical)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMenezes03&layout=compact&theme=radical)
-
 ## Tecnologias e Ferramentas
 
 <p align="left">
@@ -37,3 +31,9 @@ Estudante de Ciência da Computação na **PUC Minas** (2022-2026). Busco consta
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/> </a>
 </p>
+
+## Estatísticas
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AndreMenezes03&show_icons=true&theme=radical)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMenezes03&layout=compact&theme=radical)
